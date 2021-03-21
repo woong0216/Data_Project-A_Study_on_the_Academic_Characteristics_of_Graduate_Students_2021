@@ -1,16 +1,18 @@
 # Data_Project-A_Study_on_the_Academic_Characteristics_of_Graduate_Students_2021
 #
-## Implement Topic Modeling
+## Basic Analysis of Data Analysis for Graduate Students
 #
-> First, Crawling articles about YouTubers on the Big Kinds homepage.
->> I just uploaded the result file for this.
->> The rest of the files will be implemented while running.
+> First, a basic analysis of graduate schools was conducted.
+>> Find proportions for all variables
 #
-> Second, I divided the files quarterly.
->> It aims to identify trends every quarter. (Using Pytrend, Pre-processing, Noun Extracting)
+> Second, Clustering graduate student characteristics.
+>> A survey was conducted to check the characteristics of the graduate school.
+>>> The content of this is difficult to disclose in private.
+>> Hierarchical Clustering
+>> K-means Clustering
+>> DBSCAN
 #
-> Third, I tried to grasp the flow of YouTubers through visualization.
->> Using WordCloud, TF-IDF, T-NSE, Embedding
-#
-> Forth, I wanted to implement topic modeling for YouTubers every quarter.
->> Using LDA Topic Modeling
+> Third, Graduate Predictive Analysis Model
+>> Feature Selection
+>> Decision Tree
+>> Lasso Logistic Regression
