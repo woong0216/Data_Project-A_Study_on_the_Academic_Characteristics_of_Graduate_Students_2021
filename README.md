@@ -5,18 +5,18 @@
 ### First, a basic analysis of graduate schools was conducted.
 #### Find proportions for all variables
 - ANOVA
-#### T-Test
-#### chi-square
-#### Pandas Profiling
+- T-Test
+- chi-square
+- Pandas Profiling
 #
 ### Second, Clustering graduate student characteristics.
 #### A survey was conducted to check the characteristics of the graduate school.
 ##### The content of this is difficult to disclose in private.
-#### Hierarchical Clustering
-#### K-means Clustering
-#### DBSCAN
+- Hierarchical Clustering
+- K-means Clustering
+- DBSCAN
 #
 ### Third, Graduate Predictive Analysis Model
-#### Feature Selection
-#### Decision Tree
-#### Lasso Logistic Regression
+- Feature Selection
+- Decision Tree
+- Lasso Logistic Regression
