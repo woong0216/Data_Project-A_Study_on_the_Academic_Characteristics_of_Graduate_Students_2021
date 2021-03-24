@@ -4,7 +4,7 @@
 #
 ### First, a basic analysis of graduate schools was conducted.
 #### Find proportions for all variables
-#### ANOVA
+- ANOVA
 #### T-Test
 #### chi-square
 #### Pandas Profiling
